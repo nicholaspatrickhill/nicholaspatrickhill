@@ -29,9 +29,7 @@ Demonstrates XAML, Event Handling, If-Else blocks, Booleans, Timers, WPF and Lis
 
 **Repository:** https://github.com/nicholaspatrickhill/MyInstruments
 
-MyInstruments is my capstone project for Code Kentucky's Software Development Part 1. 
-
-This console application was developed to help me manage my collection of musical instruments. 
+MyInstruments is my capstone project for Code Kentucky's Software Development Part 1. This console application was developed to help me manage my collection of musical instruments. 
 
 Demonstrates inheritance, abstraction, dictionaries, arrays, switches, If-Else blocks, unit testing, logging, writing to text file, NuGet, LINQ query and calculations.
 
