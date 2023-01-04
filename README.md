@@ -25,7 +25,6 @@ Demonstrates XAML, Event Handling, If-Else blocks, Booleans, Timers, WPF and Lis
 <br />
 <br />
 <br />
-
 ### MyInstruments
 <img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/MyInstruments.png" alt="html" title="MyInstruments" img align="right" style="vertical-align:top; margin:4px" width="450"/>
 
@@ -34,7 +33,8 @@ Demonstrates XAML, Event Handling, If-Else blocks, Booleans, Timers, WPF and Lis
 MyInstruments is my capstone project for Code Kentucky's Software Development Part 1. This console application was developed to help me manage my collection of musical instruments. 
 
 Demonstrates inheritance, abstraction, dictionaries, arrays, switches, If-Else blocks, unit testing, logging, writing to text file, NuGet, LINQ query and calculations.
-
+<br />
+<br />
 ### DY-73 Dice Roller
 <img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/DY-73.png" alt="html" title="DY-73" img align="right" style="vertical-align:top; margin:4px" width="450"/>
 
