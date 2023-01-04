@@ -11,7 +11,7 @@ I discovered the power and flexibility of computer programming by seeing it firs
 My GitHub contains several personal projects. Here a few of my favorites:
 
 ### Audioly
-<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/Audioly.png" alt="html" title="Audioly" img align="right" style="vertical-align:top; margin:4px" width="325"/>
+<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/Audioly.png" alt="html" title="Audioly" img align="right" style="vertical-align:top; margin:4px" width="400"/>
 
 **Repository:** https://github.com/nicholaspatrickhill/Audioly2.0
 
@@ -20,6 +20,8 @@ Audioly is a fully functional music player built in .NET 7.0 with XAML describin
 With Audioly, users can open any standard audio files including .mp3, .wav, .flac and more. Users can then arrange the tracks in a playlist window, and play them back in sequential, shuffle or repeat modes. Users may skip backwards and forwards through the playlist and pause or stop the tracks. Additionally, they may scrub through the track or adjust the volume using slider bars.
 
 Demonstrates XAML, Event Handling, If-Else blocks, Booleans, Timers, WPF and Lists.
+<br />
+<br />
 <br />
 <br />
 <br />
