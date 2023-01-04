@@ -17,7 +17,7 @@ My GitHub contains several personal projects. Here a few of my favorites:
 
 Audioly is a fully functional music player built in .NET 7.0 with XAML describing its appearance and C# defining its behavior. 
 
-With Audioly, users can open any standard audio files including .mp3, .wav, .flac and more. Users can then arrange the tracks in a playlist window, and play them back in sequential, shuffle or repeat modes. Users may skip backwards and forwards through the playlist, pause or stop the tracks. Additionally, they may scrub through the track or adjust the volume using slider bars.
+With Audioly, users can open any standard audio files including .mp3, .wav, .flac and more. Users can then arrange the tracks in a playlist window, and play them back in sequential, shuffle or repeat modes. Users may skip backwards and forwards through the playlist and pause or stop the tracks. Additionally, they may scrub through the track or adjust the volume using slider bars.
 
 Demonstrates XAML, Event Handling, If-Else blocks, Booleans, Timers, WPF and Lists.
 <br />
