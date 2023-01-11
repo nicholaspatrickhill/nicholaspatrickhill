@@ -12,9 +12,14 @@ My GitHub contains several personal projects. Scroll down to see a few of my fav
 <br />
 <br />
 ***********************
-<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/Q-SYS%20Training-badges_Level1-large.png" alt ="html" title="Qsys Level One" img align="left" width="150" />
+### Certifications + Technologies:
+<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/Q-SYS%20Training-badges_Level1-large.png" alt ="html" title="Qsys Level One" img align="left" width="100" />
 
-<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/NickHillCKCert.jpg" alt="html" title="Code Kentucky Software Development 1" width="150" />
+<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/NickHillCKCert.jpg" alt="html" title="<code> KENTUCKY Software Development 1" img align="left" width="100" />
+
+<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/C%23.jpg" alt="html" title="C#" img align="left" width="75" />
+
+<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/Visual%20Studio.png" alt="html" title="Visual Studio"  width="100" />
 
 ***********************
 
