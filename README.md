@@ -1,6 +1,5 @@
 ### Hello, I'm [Nick Hill.](https://www.linkedin.com/in/nicholas-hill-23788448/)
 ***********************
-
 <img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/Nick.jpg" alt="html" title="Nick" img align="right" style="vertical-align:top; margin:4px" width="180"/>
 
 My goal is to build user-centric applications by leveraging 10+ years of experience supporting customers with software and hardware as well as my recently developed computer programming skills.
@@ -23,7 +22,6 @@ With Audioly, users can open any standard audio files including .mp3, .wav, .fla
 Demonstrates XAML, Event Handling, If-Else blocks, Booleans, Timers, WPF and Lists.
 
 **Technologies:** C#, .NET 7.0, WPF, XAML, Visual Studio
-<br />
 <br />
 <br />
 <br />
@@ -53,7 +51,6 @@ An affable character from a distant world prompts the user to play a series of d
 Demonstrates while and for loops, If-Else blocks based on random number generation, switch-based selection menus and console feedback for a dynamic user experience.
 
 **Technologies:** C#, .NET 6.0, Console Application, Visual Studio
-
 <br />
 <br />
 <br />
