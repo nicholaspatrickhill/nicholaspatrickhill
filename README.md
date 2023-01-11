@@ -15,7 +15,7 @@ My GitHub contains several personal projects. Scroll down to see a few of my fav
 
 **Repository:** https://github.com/nicholaspatrickhill/Audioly2.0
 
-Audioly is a fully functional music player built in .NET 7.0 with XAML describing its appearance and C# defining its behavior. 
+Audioly is a fully functional music player built in .NET 7.0 with XAML describing its appearance and C# defining its behavior. The UI is an original design.
 
 With Audioly, users can open any standard audio files including .mp3, .wav, .flac and more. Users can then arrange the tracks in a playlist window, and play them back in sequential, shuffle or repeat modes. Users may skip backwards and forwards through the playlist and pause or stop the tracks. Additionally, they may scrub through the track or adjust the volume using slider bars.
 
