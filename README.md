@@ -62,7 +62,7 @@ Demonstrates while and for loops, If-Else blocks based on random number generati
 <br />
 ***********************
 ### HotPepper!
-<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/HotPepper.png" alt="html" title="DY-73" img align="right" style="vertical-align:top; margin:4px" width="450"/>
+<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/HotPepper.png" alt="html" title="Hot Pepper" img align="right" style="vertical-align:top; margin:4px" width="450"/>
 
 Repository: https://github.com/nicholaspatrickhill/HotPepper
 
