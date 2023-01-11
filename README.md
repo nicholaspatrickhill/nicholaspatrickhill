@@ -12,6 +12,12 @@ My GitHub contains several personal projects. Scroll down to see a few of my fav
 <br />
 <br />
 ***********************
+<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/Q-SYS%20Training-badges_Level1-large.png" alt ="html" title="Qsys Level One" img align="left" width="150" />
+
+<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/NickHillCKCert.jpg" alt="html" title="Code Kentucky Software Development 1" width="150" />
+
+***********************
+
 ### Audioly
 <img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/Audioly.png" alt="html" title="Audioly" img align="right" style="vertical-align:top; margin:4px" width="400"/>
 
