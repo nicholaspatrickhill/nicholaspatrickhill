@@ -19,6 +19,8 @@ My GitHub contains several personal projects. Scroll down to see a few of my fav
 
 <img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/C%23.jpg" alt="html" title="C#" img align="left" width="75" />
 
+<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/dotnet.png" alt="html" title="C#" img align="left" width="100" />
+
 <img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/Visual%20Studio.png" alt="html" title="Visual Studio"  width="100" />
 
 ***********************
