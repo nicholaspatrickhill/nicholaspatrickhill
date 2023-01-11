@@ -9,6 +9,8 @@ With experience working with software and hardware in customer-focused roles in 
 I discovered the power and flexibility of computer programming by seeing it firsthand during the integration of complex AV systems. Wanting to work directly with source code, I've been learning C# and the fundamentals of object-oriented programming. I seek to use these skills to develop multi-tier scalable, performant, and reliable user-centric applications.
 
 My GitHub contains several personal projects. Scroll down to see a few of my favorites.
+<br />
+<br />
 ***********************
 ### Audioly
 <img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/Audioly.png" alt="html" title="Audioly" img align="right" style="vertical-align:top; margin:4px" width="400"/>
@@ -22,7 +24,6 @@ With Audioly, users can open any standard audio files including .mp3, .wav, .fla
 Demonstrates XAML, Event Handling, If-Else blocks, Booleans, Timers, WPF and Lists.
 
 **Technologies:** C#, .NET 7.0, WPF, XAML, Visual Studio
-<br />
 <br />
 <br />
 <br />
@@ -51,7 +52,6 @@ An affable character from a distant world prompts the user to play a series of d
 Demonstrates while and for loops, If-Else blocks based on random number generation, switch-based selection menus and console feedback for a dynamic user experience.
 
 **Technologies:** C#, .NET 6.0, Console Application, Visual Studio
-<br />
 <br />
 <br />
 ***********************
