@@ -1,6 +1,7 @@
 ### Hello, I'm [Nick Hill.](https://www.linkedin.com/in/nicholas-hill-23788448/)
+***********************
 
-<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/Nick.jpg" alt="html" title="Nick" img align="right" style="vertical-align:top; margin:4px" width="200"/>
+<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/Nick.jpg" alt="html" title="Nick" img align="right" style="vertical-align:top; margin:4px" width="180"/>
 
 My goal is to build user-centric applications by leveraging 10+ years of experience supporting customers with software and hardware as well as my recently developed computer programming skills.
 
@@ -8,8 +9,8 @@ With experience working with software and hardware in customer-focused roles in 
 
 I discovered the power and flexibility of computer programming by seeing it firsthand during the integration of complex AV systems. Wanting to work directly with source code, I've been learning C# and the fundamentals of object-oriented programming. I seek to use these skills to develop multi-tier scalable, performant, and reliable user-centric applications.
 
-My GitHub contains several personal projects. Here a few of my favorites:
-
+My GitHub contains several personal projects. Scroll down to see a few of my favorites.
+***********************
 ### Audioly
 <img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/Audioly.png" alt="html" title="Audioly" img align="right" style="vertical-align:top; margin:4px" width="400"/>
 
@@ -25,6 +26,8 @@ Demonstrates XAML, Event Handling, If-Else blocks, Booleans, Timers, WPF and Lis
 <br />
 <br />
 <br />
+<br />
+***********************
 ### MyInstruments
 <img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/MyInstruments.png" alt="html" title="MyInstruments" img align="right" style="vertical-align:top; margin:4px" width="450"/>
 
@@ -35,6 +38,7 @@ MyInstruments is my capstone project for Code Kentucky's Software Development Pa
 Demonstrates inheritance, abstraction, dictionaries, arrays, switches, If-Else blocks, unit testing, logging, writing to text file, NuGet, LINQ query and calculations.
 <br />
 <br />
+***********************
 ### DY-73 Dice Roller
 <img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/DY-73.png" alt="html" title="DY-73" img align="right" style="vertical-align:top; margin:4px" width="450"/>
 
@@ -45,6 +49,8 @@ An affable character from a distant world prompts the user to play a series of d
 Demonstrates while and for loops, If-Else blocks based on random number generation, switch-based selection menus and console feedback for a dynamic user experience.
 <br />
 <br />
+<br />
+***********************
 ### HotPepper!
 <img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/HotPepper.png" alt="html" title="DY-73" img align="right" style="vertical-align:top; margin:4px" width="450"/>
 
