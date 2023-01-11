@@ -21,6 +21,8 @@ Audioly is a fully functional music player built in .NET 7.0 with XAML describin
 With Audioly, users can open any standard audio files including .mp3, .wav, .flac and more. Users can then arrange the tracks in a playlist window, and play them back in sequential, shuffle or repeat modes. Users may skip backwards and forwards through the playlist and pause or stop the tracks. Additionally, they may scrub through the track or adjust the volume using slider bars.
 
 Demonstrates XAML, Event Handling, If-Else blocks, Booleans, Timers, WPF and Lists.
+
+**Technologies:** C#, .NET 7.0, WPF, XAML, Visual Studio
 <br />
 <br />
 <br />
@@ -36,6 +38,8 @@ Demonstrates XAML, Event Handling, If-Else blocks, Booleans, Timers, WPF and Lis
 MyInstruments is my capstone project for Code Kentucky's Software Development Part 1. This console application was developed to help me manage my collection of musical instruments. 
 
 Demonstrates inheritance, abstraction, dictionaries, arrays, switches, If-Else blocks, unit testing, logging, writing to text file, NuGet, LINQ query and calculations.
+
+**Technologies:** C#, .NET 6.0, Console Application, Visual Studio
 <br />
 <br />
 ***********************
@@ -47,6 +51,9 @@ Repository: https://github.com/nicholaspatrickhill/DY-73_DiceRoller_Game
 An affable character from a distant world prompts the user to play a series of dice games in this console app. 
 
 Demonstrates while and for loops, If-Else blocks based on random number generation, switch-based selection menus and console feedback for a dynamic user experience.
+
+**Technologies:** C#, .NET 6.0, Console Application, Visual Studio
+
 <br />
 <br />
 <br />
@@ -59,3 +66,6 @@ Repository: https://github.com/nicholaspatrickhill/HotPepper
 A console application that displays the Scoville Heat Unit rating of various hot peppers per the user's selection from a menu. 
 
 Demonstrates a dictionary populated with objects, switch-based selection menus, and console design elements for a dynamic user experience.
+
+**Technologies:** C#, .NET 6.0, Console Application, Visual Studio
+
