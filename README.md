@@ -1,6 +1,6 @@
 ### Hello, I'm [Nick Hill.](https://www.linkedin.com/in/nicholas-hill-23788448/)
 ***********************
-<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/Nick.jpg" alt="html" title="Nick" img align="right" style="vertical-align:top; margin:4px" width="180"/>
+<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/Nick.jpg" alt="html" title="Nick" img align="right" style="vertical-align:top; margin:4px" width="100"/>
 
 My goal is to build user-centric applications by leveraging 10+ years of experience supporting customers with software and hardware as well as my recently developed computer programming skills.
 
@@ -15,7 +15,7 @@ My GitHub contains several personal projects. Scroll down to see a few of my fav
 
 **Repository:** https://github.com/nicholaspatrickhill/Audioly2.0
 
-Audioly is a fully functional music player built in .NET 7.0 with XAML describing its appearance and C# defining its behavior. I designed the UI with modern design aesthetics and intuitive, user-friendly functionality in mind.
+Audioly is a fully functional music player built in .NET 7.0 with XAML describing its appearance and C# defining its behavior. I designed the UI with modern, clean aesthetics and intuitive, user-friendly functionality in mind.
 
 With Audioly, users can open any standard audio files including .mp3, .wav, .flac and more. Users can then arrange the tracks in a playlist window, and play them back in sequential, shuffle or repeat modes. Users may skip backwards and forwards through the playlist and pause or stop the tracks. Additionally, they may scrub through the track or adjust the volume using slider bars.
 
