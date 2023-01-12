@@ -25,7 +25,7 @@ My GitHub contains several personal projects. Scroll down to see a few of my fav
 
 ***********************
 
-### Audioly
+#### Audioly
 <img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/Audioly.png" alt="html" title="Audioly" img align="right" style="vertical-align:top; margin:4px" width="400"/>
 
 **Repository:** https://github.com/nicholaspatrickhill/Audioly2.0
@@ -42,7 +42,7 @@ Demonstrates XAML, Event Handling, If-Else blocks, Booleans, Timers, WPF and Lis
 <br />
 <br />
 ***********************
-### MyInstruments
+#### MyInstruments
 <img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/MyInstruments.png" alt="html" title="MyInstruments" img align="right" style="vertical-align:top; margin:4px" width="450"/>
 
 **Repository:** https://github.com/nicholaspatrickhill/MyInstruments
@@ -68,7 +68,7 @@ Demonstrates while and for loops, If-Else blocks based on random number generati
 <br />
 <br />
 ***********************
-### HotPepper!
+#### HotPepper!
 <img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/HotPepper.png" alt="html" title="Hot Pepper" img align="right" style="vertical-align:top; margin:4px" width="450"/>
 
 Repository: https://github.com/nicholaspatrickhill/HotPepper
