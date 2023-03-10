@@ -65,17 +65,4 @@ An affable character from a distant world prompts the user to play a series of d
 Demonstrates while and for loops, If-Else blocks based on random number generation, switch-based selection menus and console feedback for a dynamic user experience.
 
 **Technologies:** C#, .NET 6.0, Console Application, Visual Studio
-<br />
-<br />
-***********************
-### HotPepper!
-<img src="https://github.com/nicholaspatrickhill/nicholaspatrickhill/blob/master/Images/HotPepper.png" alt="html" title="Hot Pepper" img align="right" style="vertical-align:top; margin:4px" width="450"/>
-
-Repository: https://github.com/nicholaspatrickhill/HotPepper
-
-A console application that displays the Scoville Heat Unit rating of various hot peppers per the user's selection from a menu. 
-
-Demonstrates a dictionary populated with objects, switch-based selection menus, and console design elements for a dynamic user experience.
-
-**Technologies:** C#, .NET 6.0, Console Application, Visual Studio
 
