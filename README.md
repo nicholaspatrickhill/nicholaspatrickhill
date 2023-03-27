@@ -7,11 +7,13 @@ I discovered the power and flexibility of computer programming by seeing it firs
 
 - 🔭 I’m currently working on [PepperApp](https://github.com/nicholaspatrickhill/PepperApp)
 
-- 🌱 I’m currently learning **Software Development (C#, .NET), Web Development (JavaScript, CSS, HTML), QSYS and AV Networking**
+- 🌱 I’m currently learning **Software Development (C#, .NET), Web Development (JavaScript, CSS, HTML), Q-SYS Designer and AV Networking.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nicholaspatrickhill](https://github.com/nicholaspatrickhill)
 
-- 📫 How to reach me **nicholaspatrickhill@gmail.com**
+- ✔️ I am an AVIXA Certified AV Technologist.
+
+- 📫 Mail: **nicholaspatrickhill@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
