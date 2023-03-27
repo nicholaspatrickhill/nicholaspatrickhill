@@ -11,7 +11,7 @@ I discovered the power and flexibility of computer programming by seeing it firs
 
 - 👨‍💻 All of my projects are available at [https://github.com/nicholaspatrickhill](https://github.com/nicholaspatrickhill)
 
-- ✔️ I am an AVIXA Certified AV Technologist.
+- ✔️ I am an AVIXA-certified AV Technologist.
 
 - 📫 Mail: **nicholaspatrickhill@gmail.com**
 
